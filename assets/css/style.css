@@ -67,6 +67,22 @@ body {
 
 }
 
+.template {
+  position: relative;
+  margin: 20px 0;
+}
+
+.tag-label {
+  position: absolute;
+  background-color: #2561EA;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 4px 10px;
+  border-radius: 3px;
+  right: 5px;
+  top: 5px;
+}
+
 #footer {
     background-color: #14141a;
     color: #f9f9f9;
@@ -109,6 +125,13 @@ body {
 
   /* Media Queries */
 @media (max-width: 575.98px) {
+  #hero h1 {
+    font-size: 36px;
+  }
+  #hero p {
+    font-size: 18px;
+  }
+
   #footer {
     padding: 32px 0;
     border-bottom: none;
