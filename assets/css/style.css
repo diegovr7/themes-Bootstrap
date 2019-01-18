@@ -42,6 +42,10 @@ a:hover {
   border-radius: 5px;
 }
 
+.table tr {
+  border-bottom: 1px solid #1e2225;
+}
+
 .table-dark th, .table-dark thead th {
   background-color: #272b30;
   border-top: 0px;
@@ -111,6 +115,8 @@ a:hover {
 .template p {
   color: #616668;
   margin-bottom: 30px;
+  text-align: justify;
+  line-height: 1.8;
 }
 
 .tag-label {
@@ -127,6 +133,9 @@ a:hover {
 .preview-button {
   background-color: #2a2e34;
   color: #616668;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
   padding: 10px 15px;
   border-radius: 4px;
 }
@@ -140,6 +149,9 @@ a:hover {
 .download-btn {
   background-color: #2561EA;
   color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
   padding: 10px 15px;
   border-radius: 4px;
 }
@@ -150,12 +162,17 @@ a:hover {
   opacity: .9;
 }
 
+.download-btn i {
+  margin-right: 8px;
+}
+
 #license {
 
 }
 
 #license .content-box {
   background-color: #272b30;
+  color: #616668;
   border-radius: 10px;
   padding: 20px 30px;
   margin-bottom: 30px;
@@ -163,6 +180,10 @@ a:hover {
 
 #license .content-box h3 {
   color: #ffffff;
+}
+
+#license .content-box p {
+  margin-bottom: 0px;
 }
 
 #footer {
@@ -213,6 +234,17 @@ a:hover {
   }
   #hero p {
     font-size: 18px;
+  }
+
+  #templates {
+    padding: 0 15px;
+  }
+
+  .preview-button, .download-btn {
+    display: block;
+    margin: 10px 0;
+    padding: 15px 15px;
+    font-size: 16px;
   }
 
   #footer {
