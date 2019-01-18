@@ -9,6 +9,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+p {
+  color: #616668;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+
+a {
+  color: #2561EA;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 .topmargin-sm {
   margin-top: 30px;
 }
@@ -16,6 +36,16 @@ body {
 .heading-title {
   max-width: 780px;
   margin: 0 auto;
+}
+
+.table {
+  border-radius: 5px;
+}
+
+.table-dark th, .table-dark thead th {
+  background-color: #272b30;
+  border-top: 0px;
+  border-bottom: #1e2225;
 }
 
 .btn {
@@ -43,7 +73,7 @@ body {
 
 .btn-transparent:hover {
   background-color: #ffffff;
-  color: #000000;
+  color: #1e2225;
 }
 
 #hero {
@@ -79,7 +109,8 @@ body {
 }
 
 .template p {
-  color: #5B5B5B;
+  color: #616668;
+  margin-bottom: 30px;
 }
 
 .tag-label {
@@ -103,10 +134,35 @@ body {
 .preview-button:hover {
   background-color: #545b63;
   color: #1e2225;
+  text-decoration: none;
+}
+
+.download-btn {
+  background-color: #2561EA;
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.download-btn:hover {
+  background-color: #2561EA;
+  color: #ffffff;
+  opacity: .9;
 }
 
 #license {
 
+}
+
+#license .content-box {
+  background-color: #272b30;
+  border-radius: 10px;
+  padding: 20px 30px;
+  margin-bottom: 30px;
+}
+
+#license .content-box h3 {
+  color: #ffffff;
 }
 
 #footer {
@@ -118,6 +174,7 @@ body {
   
   #footer li a {
     font-size: 13px;
+    font-weight: 500;
     display: inline-block;
     margin: 0 8px;
     color: white;
