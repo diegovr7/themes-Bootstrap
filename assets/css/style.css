@@ -119,6 +119,14 @@ a:hover {
   line-height: 1.8;
 }
 
+.template-image {
+  transition: all .2s ease-in-out;
+}
+
+.template-image:hover {
+  transform: scale(1.02);
+}
+
 .tag-label {
   position: absolute;
   background-color: #2561EA;
