@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #1e2225;
   font-family: 'Rubik', sans-serif;
   letter-spacing: .05em;
 }
@@ -69,7 +69,17 @@ body {
 
 .template {
   position: relative;
-  margin: 20px 0;
+  margin: 40px 0;
+}
+
+.template h3 {
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.template p {
+  color: #5B5B5B;
 }
 
 .tag-label {
@@ -83,11 +93,27 @@ body {
   top: 5px;
 }
 
+.preview-button {
+  background-color: #2a2e34;
+  color: #616668;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.preview-button:hover {
+  background-color: #545b63;
+  color: #1e2225;
+}
+
+#license {
+
+}
+
 #footer {
-    background-color: #14141a;
+    background-color: #2a2e34;
     color: #f9f9f9;
     padding: 32px;
-    border-bottom: 1px solid #383838;
+    border-bottom: 1px solid #1e2225;
 }
   
   #footer li a {
@@ -99,14 +125,14 @@ body {
   }
 
   #copyright {
-    background-color: #14141a;
-    color: #5B5B5B;
+    background-color: #2a2e34;
+    color: #696d6f;
     padding: 60px;
   }
 
   #copyright i {
       font-size: 20px;
-      color: #5B5B5B;
+      color: #696d6f;
   }
 
   .icons-container {
@@ -116,7 +142,7 @@ body {
 
   .icon-box {
       padding: 5px;
-      border: 1px solid #5B5B5B;
+      border: 1px solid #696d6f;
       width: 40px;
       height: 40px;
       text-align: center;
