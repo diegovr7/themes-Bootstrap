@@ -109,7 +109,7 @@ a:hover {
 .template h3 {
   font-size: 22px;
   color: #ffffff;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .template p {
@@ -135,21 +135,11 @@ a:hover {
 
 .template-image {
   transition: all .2s ease-in-out;
+  border-radius: 4px;
 }
 
 .template-image:hover {
   transform: scale(1.03);
-}
-
-.tag-label {
-  position: absolute;
-  background-color: #2561EA;
-  color: #ffffff;
-  font-size: 10px;
-  padding: 4px 10px;
-  border-radius: 3px;
-  right: 5px;
-  top: 5px;
 }
 
 .preview-button {
@@ -176,6 +166,7 @@ a:hover {
   text-align: center;
   padding: 10px 25px;
   border-radius: 4px;
+  margin-left: 8px;
 }
 
 .download-btn:hover {
@@ -253,6 +244,10 @@ input:focus {
     margin: 0 8px;
     color: white;
     text-decoration: none;
+  }
+
+  #footer li a:hover {
+    opacity: .8;
   }
 
   #copyright {
