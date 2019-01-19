@@ -98,7 +98,7 @@ a:hover {
 }
 
 #templates {
-
+  padding: 60px 0;
 }
 
 .template {
@@ -107,7 +107,7 @@ a:hover {
 }
 
 .template h3 {
-  font-size: 20px;
+  font-size: 22px;
   color: #ffffff;
   margin-top: 20px;
 }
@@ -119,12 +119,26 @@ a:hover {
   line-height: 1.8;
 }
 
+.profile-image {
+  display: inline-block;
+}
+
+.profile-tag {
+  background-color: #2561EA;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  vertical-align: middle;
+  padding: 5px 8px;
+  border-radius: 4px;
+}
+
 .template-image {
   transition: all .2s ease-in-out;
 }
 
 .template-image:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 
 .tag-label {
@@ -144,7 +158,7 @@ a:hover {
   font-size: 14px;
   font-weight: 500;
   text-align: center;
-  padding: 10px 15px;
+  padding: 10px 25px;
   border-radius: 4px;
 }
 
@@ -160,7 +174,7 @@ a:hover {
   font-size: 14px;
   font-weight: 500;
   text-align: center;
-  padding: 10px 15px;
+  padding: 10px 25px;
   border-radius: 4px;
 }
 
@@ -178,7 +192,7 @@ a:hover {
 
 }
 
-#license .content-box {
+.content-box {
   background-color: #272b30;
   color: #616668;
   border-radius: 10px;
@@ -186,12 +200,43 @@ a:hover {
   margin-bottom: 30px;
 }
 
-#license .content-box h3 {
+.content-box h2, h3 {
+  font-size: 24px;
   color: #ffffff;
 }
 
-#license .content-box p {
+.content-box p {
   margin-bottom: 0px;
+  line-height: 1.8;
+}
+
+.content-box ul {
+  margin-top: 15px;
+}
+
+.content-box li {
+  font-size: 14px;
+}
+#contact {
+  padding: 60px 0;
+}
+label {
+  color: #495057;
+}
+
+.form-control {
+  background-color: #272b30;
+  color: #495057;
+  padding: 15px;
+  border: 0px;
+  border-radius: 4px;
+}
+
+input:focus {
+  background-color: #272b30 !important;
+  color: #495057;
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 #footer {
