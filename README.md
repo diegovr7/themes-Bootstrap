@@ -14,5 +14,5 @@ Website: http://templune.com/<br>
 Software Development Company: https://smartoasis.mx/<br>
 Behance: https://www.behance.net/diegovr7<br>
 Dribbble: https://dribbble.com/diegovr7<br>
-Linkedin: https://www.linkedin.com/in/diego-velazquez-rabasa/
+Linkedin: https://www.linkedin.com/in/diego-velazquez-rabasa/<br>
 email: diegovr7@gmail.com
