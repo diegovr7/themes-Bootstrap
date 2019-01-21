@@ -1,7 +1,8 @@
 # Bootstrap-Marketplace
 
-By Diego Velázquez
-Contact Information
+By Diego Velázquez<br>
+
+<b>Contact Information</b><br>
 
 Website: http://templune.com/<br>
 email: diegovr7@gmail.com<br>
