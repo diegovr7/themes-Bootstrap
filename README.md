@@ -1,4 +1,4 @@
-# Bootstrap-Marketplace
+# Bootstrap Marketplace
 
 <b>Description:</b> Free Bootstrap 4 themes and templates
 
