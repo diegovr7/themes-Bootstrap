@@ -136,7 +136,7 @@ a:hover {
 
 .template {
   position: relative;
-  margin: 40px 0;
+  margin: 50px 0;
 }
 
 .template h3 {
@@ -240,7 +240,7 @@ a:hover {
 }
 
 #license {
-
+  padding: 80px 0;
 }
 
 .content-box {
@@ -351,7 +351,7 @@ input:focus {
     padding: 0 15px;
   }
 
-  .preview-button, .download-btn {
+  .preview-button, .download-btn, .main-btn, .btn-transparent {
     display: block;
     margin: 10px 0;
     padding: 15px 15px;
