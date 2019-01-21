@@ -156,6 +156,10 @@ a:hover {
   padding: 80px 0;
 }
 
+#template-details ul li {
+  color: #616668;
+}
+
 .template-info {
   background-color: #272b30;
   padding: 15px;
