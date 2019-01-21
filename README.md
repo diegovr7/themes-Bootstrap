@@ -1,5 +1,7 @@
 # Bootstrap-Marketplace
 
+<b>Release date:</b> 1 february 2019
+
 By Diego Velázquez<br>
 
 <b>Contact Information</b><br>
