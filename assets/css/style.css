@@ -80,8 +80,31 @@ a:hover {
   color: #1e2225;
 }
 
+.navbar {
+  background-color: #2a2e34;
+  padding: .8rem 1rem;
+}
+
+.navbar-toggler {
+  font-size: 2.2rem;
+  color: #ffffff;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}
+
+.nav-link {
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+  margin: 0 8px;
+  color: white;
+  text-decoration: none;
+}
+
 #hero {
-  padding: 80px 0;
+  padding: 120px 0;
   text-align: center;
   color: #ffffff;
 }
@@ -153,8 +176,9 @@ a:hover {
 }
 
 .preview-button:hover {
-  background-color: #545b63;
-  color: #1e2225;
+  background-color: #2a2e34;
+  color: #616668;
+  opacity: .9;
   text-decoration: none;
 }
 
