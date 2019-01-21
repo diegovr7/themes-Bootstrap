@@ -100,12 +100,17 @@ a:hover {
   font-weight: 500;
   display: inline-block;
   margin: 0 8px;
-  color: white;
+  color: #ffffff;
   text-decoration: none;
 }
 
+.nav-link:hover {
+  color: #ffffff;
+  opacity: .8;
+}
+
 .nav-item .nav-link i {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 #hero {
@@ -145,6 +150,24 @@ a:hover {
   margin-bottom: 30px;
   text-align: justify;
   line-height: 1.8;
+}
+
+#template-details {
+  padding: 80px 0;
+}
+
+.template-info {
+  background-color: #272b30;
+  padding: 15px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.template-details-preview {
+  background-color: #272b30;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 30px;
 }
 
 .profile-image {
