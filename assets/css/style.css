@@ -111,10 +111,11 @@ a:hover {
 
 .nav-item .nav-link i {
   font-size: 18px;
+  vertical-align: middle;
 }
 
 #hero {
-  padding: 120px 0;
+  padding: 120px 0 60px 0;
   text-align: center;
   color: #ffffff;
 }
@@ -239,7 +240,7 @@ a:hover {
   margin-right: 8px;
 }
 
-#license {
+#license, #contact {
   padding: 80px 0;
 }
 
@@ -268,11 +269,13 @@ a:hover {
 .content-box li {
   font-size: 14px;
 }
-#contact {
-  padding: 60px 0;
-}
+
 label {
   color: #495057;
+}
+
+.form-row {
+  margin: 15px 0;
 }
 
 .form-control {
@@ -288,6 +291,10 @@ input:focus {
   color: #495057;
   outline: none !important;
   box-shadow: none !important;
+}
+
+#call-to-action .form-control {
+  background-color: #1e2225;
 }
 
 #footer {
@@ -355,11 +362,12 @@ input:focus {
     padding: 0 15px;
   }
 
-  .preview-button, .download-btn, .main-btn, .btn-transparent {
+  .btn, .preview-button, .download-btn, .main-btn, .btn-transparent {
     display: block;
     margin: 10px 0;
     padding: 15px 15px;
     font-size: 16px;
+    width: 100%
   }
 
   #footer {
@@ -394,6 +402,10 @@ input:focus {
 
   .mobile-only {
     display: inline-block !important;
+  }
+
+  .nav-item .nav-link i {
+    margin-right: 5px;
   }
 }
 
