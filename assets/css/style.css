@@ -72,7 +72,7 @@ a:hover {
 
 .btn-transparent {
   background-color: transparent;
-  border: 1px solid rgb(255,255,255, 0.5)
+  border: 2px solid rgb(255,255,255, 0.5)
 }
 
 .btn-transparent:hover {
@@ -83,6 +83,7 @@ a:hover {
 .navbar {
   background-color: #2a2e34;
   padding: .8rem 1rem;
+  box-shadow: 0 .5rem 1rem rgba(43,42,53,.075)!important;
 }
 
 .navbar-toggler {
@@ -101,6 +102,10 @@ a:hover {
   margin: 0 8px;
   color: white;
   text-decoration: none;
+}
+
+.nav-item .nav-link i {
+  font-size: 17px;
 }
 
 #hero {
