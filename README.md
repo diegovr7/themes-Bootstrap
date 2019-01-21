@@ -11,6 +11,7 @@ By Diego Velázquez<br>
 <b>Contact Information</b><br>
 
 Website: http://templune.com/<br>
-email: diegovr7@gmail.com<br>
+Software Development Company: https://smartoasis.mx/<br>
 Behance: https://www.behance.net/diegovr7<br>
-Dribbble: https://dribbble.com/diegovr7
+Dribbble: https://dribbble.com/diegovr7<br>
+email: diegovr7@gmail.com
