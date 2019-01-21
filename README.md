@@ -2,7 +2,7 @@
 
 <b>Description:</b>
 
-<b>Development Version:</b> bootstrap-marketplace.templune.com
+<b>Development Version:</b> <a href="bootstrap-marketplace.templune.com">Visit Website</a>
 
 <b>Release date:</b> 1 february 2019
 
