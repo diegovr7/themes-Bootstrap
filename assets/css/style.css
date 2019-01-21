@@ -301,13 +301,16 @@ input:focus {
 
   /* Media Queries */
 @media (max-width: 575.98px) {
+  .nav-link {
+    font-size: 16px;
+    margin: 3px 8px;
+  }
   #hero h1 {
     font-size: 36px;
   }
   #hero p {
     font-size: 18px;
   }
-
   #templates {
     padding: 0 15px;
   }
