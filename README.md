@@ -1,6 +1,6 @@
 # Bootstrap-Marketplace
 
-<b>Description:</b>
+<b>Description:</b> Free Bootstrap 4 themes and templates
 
 <b>Development Version:</b> <a href="http://bootstrap-marketplace.templune.com/">Visit Website</a>
 
