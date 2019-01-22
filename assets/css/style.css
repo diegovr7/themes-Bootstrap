@@ -80,6 +80,10 @@ a:hover {
   color: #1e2225;
 }
 
+.logo-footer {
+  max-width: 200px;
+}
+
 .navbar {
   background-color: #2a2e34;
   padding: .8rem 1rem;
@@ -483,7 +487,7 @@ input:focus {
   }
 }
 
-@media (max-width: 767.98px) { 
+@media (max-width: 768px) { 
   .mobile-only {
     display: none;
   }
@@ -495,6 +499,9 @@ input:focus {
   }
   #mc_embed_signup {
     width: auto !important;
+  }
+  .icons-container {
+    margin-top: 30px;
   }
 }
 
