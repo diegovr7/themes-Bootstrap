@@ -379,6 +379,9 @@ input:focus {
     width: 100% !important;
     text-align: center !important;
   }
+  #mc_embed_signup form {
+    text-align: center !important;
+  }
   /* Media Queries */
 @media (max-width: 575.98px) {
   .nav-link {
@@ -403,6 +406,10 @@ input:focus {
     width: 100%
   }
 
+  .btn-transparent {
+    margin-top: 10px !important;
+  }
+
   #footer {
     padding: 32px 0;
     border-bottom: none;
@@ -423,6 +430,10 @@ input:focus {
     font-size: 16px;
   }
 
+  #copyright {
+    padding: 60px 30px;
+  }
+
   .icons-container {
     margin-top: 30px;
   }
@@ -440,7 +451,7 @@ input:focus {
   .nav-item .nav-link i {
     margin-right: 5px;
   }
-  
+
   /* Mailchimp modifications */
   #mc_embed_signup {
     width: auto !important;
