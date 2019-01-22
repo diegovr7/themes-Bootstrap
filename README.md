@@ -4,7 +4,7 @@
 
 <b>Development Version:</b> <a href="http://bootstrap-marketplace.templune.com/">Visit Website</a>
 
-<b>Release date:</b> 1 february 2019
+<b>Release date:</b> 15 february 2019
 
 <b>Author:</b> Diego Velázquez<br>
 
