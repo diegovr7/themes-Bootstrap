@@ -220,6 +220,7 @@ a:hover {
 .download-btn {
   background-color: #2561EA !important;
   color: #ffffff !important;
+  font-family: 'Rubik', sans-serif;
   font-size: 14px !important;
   font-weight: 500 !important;
   text-align: center !important;
@@ -234,6 +235,10 @@ a:hover {
   color: #ffffff;
   opacity: .9;
   transform: scale(1.02);
+}
+
+.download-btn:active {
+  background-color: #2561EA !important;
 }
 
 .download-btn i {
@@ -362,6 +367,18 @@ input:focus {
   #mc_embed_signup .button {
     height: auto !important;
   }
+  #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+    margin: 10px 0 0 0 !important;
+    background-color: #1e2225 !important;
+    color: #DD1407 !important;
+  }
+  #mc_embed_signup div.response {
+    color: #2561EA !important;
+    margin: 5px !important;
+    padding: 0px !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
   /* Media Queries */
 @media (max-width: 575.98px) {
   .nav-link {
@@ -422,6 +439,11 @@ input:focus {
 
   .nav-item .nav-link i {
     margin-right: 5px;
+  }
+  
+  /* Mailchimp modifications */
+  #mc_embed_signup {
+    width: auto !important;
   }
 }
 
