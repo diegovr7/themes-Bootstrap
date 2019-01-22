@@ -221,12 +221,11 @@ a:hover {
   background-color: #2561EA !important;
   color: #ffffff !important;
   font-family: 'Rubik', sans-serif;
-  font-size: 14px !important;
+  font-size: 14px;
   font-weight: 500 !important;
   text-align: center !important;
-  padding: 10px 25px !important;
+  padding: 10px 25px;
   border-radius: 4px !important;
-  margin-left: 8px !important;
   transition: all .2s ease-in-out !important;
 }
 
@@ -243,6 +242,20 @@ a:hover {
 
 .download-btn i {
   margin-right: 8px;
+}
+
+.newsletter-btn {
+  background-color: #2561EA !important;
+  color: #ffffff !important;
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  text-align: center !important;
+  padding: 10px 25px !important;
+  border-radius: 4px !important;
+  margin: 2px 0 !important;
+  margin-left: 0px !important;
+  transition: all .2s ease-in-out !important;
 }
 
 #license, #contact {
@@ -382,6 +395,12 @@ input:focus {
   #mc_embed_signup form {
     text-align: center !important;
   }
+  #mc_embed_signup h2 {
+    line-height: 1.6;
+  }
+  #mc_embed_signup .mc-field-group {
+    width: 100% !important;
+  }
   /* Media Queries */
 @media (max-width: 575.98px) {
   .nav-link {
@@ -403,7 +422,7 @@ input:focus {
     margin: 10px 0;
     padding: 15px 15px;
     font-size: 16px;
-    width: 100%
+    width: 100% !important;
   }
 
   .btn-transparent {
@@ -456,6 +475,12 @@ input:focus {
   #mc_embed_signup {
     width: auto !important;
   }
+  #mc_embed_signup .mc-field-group {
+    width: 100% !important;
+  }
+  #mc_embed_signup .mc-field-group input {
+    padding: 10px !important;
+  }
 }
 
 @media (max-width: 767.98px) { 
@@ -467,6 +492,9 @@ input:focus {
 @media (max-width: 991.98px) { 
   .mobile-only {
     display: none;
+  }
+  #mc_embed_signup {
+    width: auto !important;
   }
 }
 
