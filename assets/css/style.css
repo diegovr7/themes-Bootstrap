@@ -85,7 +85,7 @@ a:hover {
 }
 
 .navbar {
-  background-color: #2a2e34;
+  background-color: #1e2225;
   padding: .8rem 1rem;
   box-shadow: 0 .5rem 1rem rgba(43,42,53,.075)!important;
 }
@@ -119,9 +119,10 @@ a:hover {
 }
 
 #hero {
-  padding: 120px 0 60px 0;
+  padding: 80px 0;
   text-align: center;
   color: #ffffff;
+  background-color: #272b30;
 }
 
 #hero h1 {
