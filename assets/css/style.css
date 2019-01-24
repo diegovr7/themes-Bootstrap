@@ -25,6 +25,10 @@ a {
   color: #2561EA;
 }
 
+img {
+  border-radius: 4px;
+}
+
 a:hover {
   text-decoration: none;
 }
@@ -156,6 +160,21 @@ a:hover {
   margin-bottom: 30px;
   text-align: justify;
   line-height: 1.8;
+}
+
+.preview {
+  position: relative;
+}
+
+.live-preview {
+  position: absolute;
+  background-color: #2561EA !important;
+  color: #ffffff;
+  font-size: 12px;
+  bottom: 7px;
+  right: 7px;
+  padding: 5px 10px;
+  border-radius: 4px;
 }
 
 #template-details {
