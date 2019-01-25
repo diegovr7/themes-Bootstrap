@@ -14,6 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+  font-size: 15px;
   color: #616668;
 }
 
@@ -150,9 +151,10 @@ a:hover {
 }
 
 .template h3 {
-  font-size: 22px;
+  font-size: 20px;
   color: #ffffff;
   margin-top: 30px;
+  margin-bottom: 5px;
 }
 
 .template p {
@@ -171,8 +173,9 @@ a:hover {
   background-color: #2561EA !important;
   color: #ffffff;
   font-size: 12px;
-  bottom: 7px;
-  right: 7px;
+  font-weight: 500;
+  bottom: 9px;
+  right: 9px;
   padding: 5px 10px;
   border-radius: 4px;
 }
