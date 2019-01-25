@@ -38,6 +38,12 @@ a:hover {
   margin-top: 30px;
 }
 
+.navbar-brand {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
 .heading-title {
   max-width: 780px;
   margin: 0 auto;
@@ -127,7 +133,9 @@ a:hover {
   padding: 80px 0;
   text-align: center;
   color: #ffffff;
-  background-color: #272b30;
+  background-color: #181c1e;
+  border-top: 2px solid #272b30;
+  border-bottom: 2px solid #272b30;
 }
 
 #hero h1 {
