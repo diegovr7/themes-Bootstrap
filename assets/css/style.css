@@ -39,9 +39,14 @@ a:hover {
 }
 
 .navbar-brand {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #ffffff;
+}
+
+.navbar-brand:hover {
+  color: #ffffff;
+  opacity: .9;
 }
 
 .heading-title {
