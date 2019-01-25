@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
 }
 
-p {
+p, li, td {
   font-size: 15px;
   color: #616668;
 }
@@ -206,10 +206,26 @@ a:hover {
 }
 
 .template-info {
-  background-color: #272b30;
   padding: 15px;
   font-size: 14px;
-  border-radius: 4px;
+}
+
+.table-description {
+  color: #616668;
+}
+
+.table-description thead th {
+  border-bottom: 1px solid #2a2e34;
+  border-top: 1px solid #2a2e34;
+}
+
+.table-description td {
+  border-bottom: 1px solid #2a2e34;
+}
+
+.item-description {
+  padding: 15px 0;
+  border-bottom: 1px solid #272b30;
 }
 
 .template-details-preview {
