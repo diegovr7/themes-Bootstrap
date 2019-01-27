@@ -62,6 +62,10 @@ a:hover {
   border-bottom: 1px solid #1e2225;
 }
 
+.table td {
+  border-top: 1px solid #2a2e34;
+}
+
 .table-dark th, .table-dark thead th {
   background-color: #272b30;
   border-top: 0px;
@@ -96,14 +100,34 @@ a:hover {
   color: #1e2225 !important;
 }
 
+.btn-download-template {
+  background-color: #2561EA;
+  width: 100%;
+  padding: 10px 20px !important;
+  margin: 5px 0px !important;
+}
+
+.btn-preview-template {
+  background-color: #2a2e34;
+  color: #616668;
+  width: 100%;
+  padding: 10px 20px !important;
+  margin: 5px 0px !important;
+}
+
 .logo-footer {
   max-width: 200px;
+}
+
+.tright {
+  text-align: right;
 }
 
 .navbar {
   background-color: #1e2225;
   padding: .8rem 1rem;
   box-shadow: 0 .5rem 1rem rgba(43,42,53,.075)!important;
+  border-bottom: 2px solid #272b30;
 }
 
 .navbar-toggler {
@@ -139,7 +163,6 @@ a:hover {
   text-align: center;
   color: #ffffff;
   background-color: #181c1e;
-  border-top: 2px solid #272b30;
   border-bottom: 2px solid #272b30;
 }
 
