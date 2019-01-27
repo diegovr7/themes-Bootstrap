@@ -38,6 +38,10 @@ a:hover {
   margin-top: 30px;
 }
 
+.fweight-500 {
+  font-weight: 500;
+}
+
 .navbar-brand {
   font-size: 16px;
   font-weight: 500;
@@ -64,6 +68,7 @@ a:hover {
 
 .table td {
   border-top: 1px solid #2a2e34;
+  padding: 15px 0px;
 }
 
 .table-dark th, .table-dark thead th {
@@ -371,6 +376,8 @@ a:hover {
 }
 
 label {
+  font-size: 14px;
+  font-weight: 500;
   color: #495057;
 }
 
@@ -386,7 +393,7 @@ label {
   border-radius: 4px;
 }
 
-input:focus {
+.form-group input:focus, textarea:focus {
   background-color: #272b30 !important;
   color: #495057;
   outline: none !important;
@@ -455,6 +462,8 @@ input:focus {
     background-color: #1e2225;
     border: 0px !important;
     height: 60px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
   }
   #mc_embed_signup .mc-field-group input:focus {
     background-color: #1e2225 !important;
@@ -571,7 +580,7 @@ input:focus {
 
 @media (max-width: 768px) { 
   .mobile-only {
-    display: none;
+    display: inline-block !important;
   }
 }
 
