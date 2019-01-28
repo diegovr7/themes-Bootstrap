@@ -428,6 +428,10 @@ label {
     padding: 32px;
     border-bottom: 1px solid #1e2225;
 }
+
+#footer ul {
+  padding: 0px;
+}
   
   #footer li a {
     font-size: 13px;
@@ -543,10 +547,6 @@ label {
     border-bottom: none;
   }
 
-  #footer .container-fluid {
-    padding: 0px;
-  } 
-
   #footer li {
     float: none;
     text-align: center;
@@ -606,7 +606,7 @@ label {
   }
   .preview-button, .download-btn {
     width: 100%;
-    margin: 5px 0;
+    margin: 10px 0;
   }
 }
 
