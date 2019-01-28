@@ -26,12 +26,13 @@ a {
   color: #2561EA;
 }
 
-img {
-  border-radius: 4px;
+a:hover {
+  opacity: .9;
+  text-decoration: none;
 }
 
-a:hover {
-  text-decoration: none;
+img {
+  border-radius: 4px;
 }
 
 .topmargin-sm {
@@ -238,7 +239,7 @@ a:hover {
 }
 
 #template-details h1 {
-  font-size: 34px;
+  font-size: 32px;
 }
 
 #template-details ul li {
