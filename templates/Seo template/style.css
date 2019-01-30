@@ -1,0 +1,101 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8;
+    letter-spacing: .05em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+}
+
+.tright {
+    text-align: right !important;
+}
+
+.btn {
+    background-color: #ffffff;
+    color: #258ffb;
+    padding: 15px 30px;
+    display: inline-block;
+    border-radius: 6px;
+    border: 0px;
+}
+
+.btn-dark {
+    background-color: #258ffb;
+    color: #ffffff;
+}
+
+.btn:hover {
+    color: #258ffb;
+}
+
+.btn-dark:hover {
+    background-color: #258ffb;
+    color: #ffffff;
+    opacity: .9;
+}
+
+#call-to-action {
+    background-color: #258ffb;
+    color: #ffffff;
+    padding: 40px 0;
+}
+
+#call-to-action h3 {
+    font-size: 36px;
+}
+
+#footer {
+    background-color: #07192e;
+    color: #ffffff;
+    padding: 50px 0 0 0;
+}
+
+#footer p {
+    color: #c0c8da;
+}
+
+.footer-buttons {
+    text-align: right;
+}
+
+.footer-bottom {
+    margin-top: 30px;
+    padding: 50px 0;
+    border-top: 1px solid #3e485f;
+    color: #c0c8da;
+}
+
+.footer-bottom ul {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+.footer-bottom li {
+    float: left;
+    margin-left: 15px;
+}
+
+.footer-bottom li i {
+    font-size: 24px;
+    vertical-align: top;
+}
+
+#copyrights {
+    background-color: #020f1f;
+    color: #c0c8da;
+    padding: 30px 0;
+    text-align: center;
+}
