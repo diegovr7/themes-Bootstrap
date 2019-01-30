@@ -176,6 +176,10 @@ img {
   vertical-align: middle;
 }
 
+#content {
+  position: relative;
+}
+
 #hero {
   padding: 80px 0;
   text-align: center;
@@ -232,6 +236,7 @@ img {
   right: 9px;
   padding: 5px 10px;
   border-radius: 4px;
+  z-index: 9999;
 }
 
 #template-details {
