@@ -612,7 +612,11 @@ label {
   }
   .preview-button, .download-btn {
     width: 100%;
-    margin: 10px 0;
+    margin: 5px 0;
+    padding: 10px 15px;
+  }
+  .template h3 {
+    font-size: 18px;
   }
 }
 

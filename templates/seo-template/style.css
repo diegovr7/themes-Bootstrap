@@ -116,3 +116,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 5px;
     bottom: 5px;
 }
+
+#back-button:hover {
+    text-decoration: none;
+}
