@@ -133,6 +133,10 @@ img {
   margin: 5px 0px !important;
 }
 
+.header-logo {
+  max-width: 180px;
+}
+
 .logo-footer {
   max-width: 250px;
 }
