@@ -1,6 +1,6 @@
-# Bootstrap Marketplace
+# Themes Bootstrap 
 
-<b>Description:</b> Free Bootstrap 4 themes and templates
+<b>Description:</b> Themes Bootstrap is a collection of free open source Bootstrap 4 themes and templates. Create amazing websites with our easy to customize templates.
 
 <b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
 <b>Contact Email:</b> contact@themesbootstrap.com.mx
