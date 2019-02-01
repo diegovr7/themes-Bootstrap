@@ -1,5 +1,5 @@
 # Themes Bootstrap 
-<p align="center"><img src="https://themesbootstrap.com.mx/assets/images/favicon.png" style="margin: 0 auto;"></p>
+<p align="center"><img src="https://themesbootstrap.com.mx/assets/images/header-github.svg" style="margin: 0 auto;"></p>
 
 
 <b>Description:</b> Themes Bootstrap is a collection of free open source Bootstrap 4 themes and templates. Create amazing websites with our easy to customize templates.
