@@ -134,7 +134,7 @@ img {
 }
 
 .logo-footer {
-  max-width: 230px;
+  max-width: 250px;
 }
 
 .tright {
@@ -566,6 +566,11 @@ label {
 
   #copyright {
     padding: 60px 30px;
+  }
+
+  #copyright small {
+    margin-top: 20px;
+    display: inline-block;
   }
 
   .icons-container {
