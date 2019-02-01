@@ -1,6 +1,8 @@
 # Themes Bootstrap 
+<p align="center"><img src="https://themesbootstrap.com.mx/assets/images/header-github.svg" style="margin: 0 auto;"></p>
 
-<b>Description:</b> Themes Bootstrap is a collection of free open source Bootstrap 4 themes and templates. Create amazing websites with our easy to customize templates.
+
+<b>Description:</b> Themes Bootstrap is a collection of free open source Bootstrap 4 themes and templates. Create amazing websites with our easy to customize templates. Find out more about Bootstrap on its <a href="https://getbootstrap.com/" target="_blank" rel="noopener">official website.</a>
 
 <b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
 <b>Contact Email:</b> contact@themesbootstrap.com.mx
