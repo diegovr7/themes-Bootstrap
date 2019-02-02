@@ -488,6 +488,7 @@ label {
   /* Mailchimp modifications */
   #mc_embed_signup .mc-field-group input {
     background-color: #1e2225;
+    color: #ffffff;
     border: 0px !important;
     height: 60px;
     font-family: 'Rubik', sans-serif;
@@ -575,6 +576,7 @@ label {
   #copyright small {
     margin-top: 20px;
     display: inline-block;
+    line-height: 2;
   }
 
   .icons-container {
