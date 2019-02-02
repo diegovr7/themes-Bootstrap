@@ -9,7 +9,9 @@
 
 <b>Release date <small>(Version 1.0.0)</small>:</b> 15 february 2019
 
-<b>Author:</b> Diego Velázquez<br>
+<b>Authors</b><br> 
+Diego Velázquez<br>
+Cristian Palacios
 
 <b>Personal Information</b><br>
 
