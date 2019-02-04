@@ -135,6 +135,7 @@ img {
 
 .header-logo {
   max-width: 180px;
+  min-width: 180px;
 }
 
 .logo-footer {
