@@ -23,6 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a:hover {
+    color: #007bff;
+    opacity: .9;
     text-decoration: none;
 }
 
@@ -32,6 +34,10 @@ section {
 
 .topmargin-sm {
     margin-top: 30px;
+}
+
+.topmargin-lg {
+    margin-top: 60px;
 }
 
 .primary-btn {
@@ -58,9 +64,14 @@ section {
     text-decoration: none;
 }
 
+.primary-btn:hover {
+    color: #ffffff;
+}
+
 .heading-wrapper {
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 #logo {
@@ -78,9 +89,24 @@ section {
     border-radius: 4px;
 }
 
+.navbar-toggler {
+    background-color: transparent;
+    font-size: 34px;
+    border-radius: 0px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+    outline: none;
+}
+
 .heading-wrapper p {
     font-size: 20px;
 }
+
+/*/////////////////////////////////////////
+Hero
+////////////////////////////////////////*/
 
 #hero {
     text-align: center;
@@ -95,6 +121,115 @@ section {
 #hero p {
     margin-bottom: 20px;
 }
+
+/*/////////////////////////////////////////
+Pricing
+////////////////////////////////////////*/
+
+#pricing {
+    background-color: #f4f4f6;
+}
+
+.pricing-box {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: #d7d8e2 0px 2px 4px 0px;
+}
+
+
+.pb-active {
+    background-color: #2d8eff !important;
+}
+
+.pb-header-active, .pb-subscription-active, .pb-features-active {
+    color: #ffffff !important;
+}
+
+.pb-white {
+    color: #ffffff !important;
+}
+
+.pb-header {
+    padding: 30px 24px;
+    text-align: center;
+    border-bottom: 2px solid #f4f4f6;
+}
+
+.pb-header i {
+    font-size: 60px;
+}
+
+.pb-subscription {
+    padding: 30px 24px;
+    text-align: center;
+    border-bottom: 2px solid #f4f4f6;
+}
+
+.pb-features {
+    padding: 30px 24px;
+}
+
+.pb-features ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.pb-features ul li {
+    margin-bottom: 10px;
+}
+
+.pb-features ul li i {
+    color: #2d8eff;
+    margin-right: 10px;
+}
+
+/*/////////////////////////////////////////
+Frequently asked questions
+////////////////////////////////////////*/
+
+#faq {
+    background-color: #ffffff;
+}
+
+.card-header:first-child, .card {
+    border-radius: 0px;
+}
+
+.card-header {
+    background-color: #ffffff;
+    border: 0px;
+    padding: 5px 0;
+}
+
+.card-header i {
+    color: #2d8eff;
+    font-size: 26px;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.card {
+    border: 0px;
+    border-top: 1px solid#e9edf5;
+}
+
+.card-body {
+    padding: 5px 10px;
+}
+
+.btn-link {
+    color: #282c47;
+}
+
+.btn-link:hover {
+    color: #282c47;
+    opacity: .95;
+    text-decoration: none;
+}
+
+/*/////////////////////////////////////////
+Blog
+////////////////////////////////////////*/
 
 #blog {
     background-color: #f4f4f6;
@@ -122,6 +257,10 @@ section {
     padding: 24px
 }
 
+/*/////////////////////////////////////////
+Footer
+////////////////////////////////////////*/
+
 #footer {
     background-color: #282c47;
     text-align: center;
@@ -138,3 +277,15 @@ section {
     color: #5b617c;
     margin: 0 5px;
 }
+
+/*/////////////////////////////////////////
+Media Queries
+////////////////////////////////////////*/
+
+@media (max-width: 575.98px) { ... }
+
+@media (max-width: 767.98px) { ... }
+
+@media (max-width: 991.98px) { ... }
+
+@media (max-width: 1199.98px) { ... }
