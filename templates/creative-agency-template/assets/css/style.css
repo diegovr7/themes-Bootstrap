@@ -80,6 +80,7 @@ section {
 
 .navbar {
     background-color: #ffffff;
+    border-bottom: 1px solid#e9edf5;
 }
 
 .nav-link {
@@ -139,6 +140,12 @@ Pricing
     background-color: #ffffff;
     border-radius: 4px;
     box-shadow: #d7d8e2 0px 2px 4px 0px;
+    margin: 15px 0;
+    transition: all .2s ease-in-out;
+}
+
+.pricing-box:hover {
+    transform: scale(1.05);
 }
 
 
