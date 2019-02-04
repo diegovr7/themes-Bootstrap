@@ -101,6 +101,7 @@ img {
 
 .main-btn {
   background-color: #2561EA !important;
+  min-width: 160px;
 }
 
 .main-btn:hover {
@@ -110,7 +111,8 @@ img {
 
 .btn-transparent {
   background-color: transparent;
-  border: 2px solid rgb(255,255,255, 0.5)
+  border: 2px solid rgb(255,255,255, 0.5);
+  min-width: 160px;
 }
 
 .btn-transparent:hover {
@@ -318,6 +320,7 @@ img {
   padding: 10px 25px;
   border-radius: 4px;
   transition: all .2s ease-in-out;
+  min-width: 160px;
 }
 
 .preview-button:hover {
