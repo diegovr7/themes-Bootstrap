@@ -124,6 +124,11 @@ section {
     border-radius: 4px;
 }
 
+.nav-item {
+    min-width: 90px;
+    text-align: center;
+}
+
 .navbar-toggler {
     background-color: transparent;
     font-size: 34px;
@@ -326,7 +331,11 @@ Media Queries
 
 @media (max-width: 575.98px) { ... }
 
-@media (max-width: 767.98px) { ... }
+@media (max-width: 768px) { 
+    .nav-item {
+        text-align: left;
+    }
+}
 
 @media (max-width: 991.98px) { ... }
 
