@@ -7,7 +7,7 @@
 <b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
 <b>Contact Email:</b> contact@themesbootstrap.com.mx
 
-<b>Release date <small>(Version 1.0.0)</small>:</b> 15 february 2019
+<b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
 
 <b>Authors</b><br> 
 Diego Velázquez<br>
