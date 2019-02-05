@@ -36,7 +36,11 @@ img {
 }
 
 .topmargin-sm {
-  margin-top: 30px;
+  margin-top: 30px !important;
+}
+
+.topmargin-lg {
+  margin-top: 60px !important;
 }
 
 .nomargin-top {
