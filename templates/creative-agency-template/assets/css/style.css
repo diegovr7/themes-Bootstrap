@@ -10,6 +10,10 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #ffffff;
     color: #5b617c;
@@ -329,7 +333,11 @@ Footer
 Media Queries
 ////////////////////////////////////////*/
 
-@media (max-width: 575.98px) { ... }
+@media (max-width: 575.98px) { 
+    .btn-link {
+        font-size: 15px;
+    }
+}
 
 @media (max-width: 768px) { 
     .nav-item {
