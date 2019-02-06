@@ -1,5 +1,5 @@
 body {
-  background-color: #1e2225;
+  background-color: #161E29;
   font-family: 'Rubik', sans-serif;
   letter-spacing: .05em;
 }
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, li, td {
   font-size: 15px;
-  color: #616668;
+  color: #7A879F;
 }
 
 ul {
@@ -104,7 +104,7 @@ img {
 }
 
 .main-btn {
-  background-color: #2561EA !important;
+  background-color: #0073E6 !important;
   min-width: 160px;
 }
 
@@ -153,10 +153,9 @@ img {
 }
 
 .navbar {
-  background-color: #1e2225;
+  background-color: #161E29;
   padding: .8rem 1rem;
   box-shadow: 0 .5rem 1rem rgba(43,42,53,.075)!important;
-  border-bottom: 2px solid #272b30;
 }
 
 .navbar-toggler {
@@ -195,8 +194,7 @@ img {
   padding: 80px 0;
   text-align: center;
   color: #ffffff;
-  background-color: #181c1e;
-  border-bottom: 2px solid #272b30;
+  background-color: #1D2633;
 }
 
 #hero h1 {
@@ -227,7 +225,7 @@ img {
 }
 
 .template p {
-  color: #616668;
+  color: #7A879F;
   margin-bottom: 30px;
   text-align: justify;
   line-height: 1.8;
@@ -259,7 +257,7 @@ img {
 }
 
 #template-details ul li {
-  color: #616668;
+  color: #7A879F;
 }
 
 .template-info {
@@ -309,28 +307,26 @@ img {
 }
 
 .preview-button {
-  background-color: #2a2e34;
-  color: #616668;
+  background-color: #1D2633;
+  color: #7A879F;
   display: inline-block;
   font-size: 14px;
   font-weight: 500;
   text-align: center;
   padding: 10px 25px;
   border-radius: 4px;
-  transition: all .2s ease-in-out;
   min-width: 160px;
 }
 
 .preview-button:hover {
-  background-color: #2a2e34;
+  background-color: #1D2633;
   color: #616668;
   opacity: .9;
   text-decoration: none;
-  transform: scale(1.02);
 }
 
 .download-btn {
-  background-color: #2561EA !important;
+  background-color: #0073E6 !important;
   color: #ffffff !important;
   font-family: 'Rubik', sans-serif;
   display: inline-block;
@@ -358,7 +354,7 @@ img {
 }
 
 .newsletter-btn {
-  background-color: #2561EA !important;
+  background-color: #0073E6 !important;
   color: #ffffff !important;
   font-family: 'Rubik', sans-serif;
   font-size: 14px !important;
@@ -376,8 +372,8 @@ img {
 }
 
 .content-box {
-  background-color: #272b30;
-  color: #616668;
+  background-color: #1D2633;
+  color: #7A879F;
   border-radius: 10px;
   padding: 20px 30px;
   margin-bottom: 30px;
@@ -435,7 +431,7 @@ label {
 }
 
 #footer {
-    background-color: #2a2e34;
+    background-color: #1D2633;
     color: #f9f9f9;
     padding: 32px;
     border-bottom: 1px solid #1e2225;
@@ -459,14 +455,14 @@ label {
   }
 
   #copyright {
-    background-color: #2a2e34;
-    color: #696d6f;
+    background-color: #1D2633;
+    color: #7A879F;
     padding: 60px;
   }
 
   #copyright i {
       font-size: 20px;
-      color: #696d6f;
+      color: #7A879F;
   }
 
   .icons-container {
@@ -476,7 +472,7 @@ label {
 
   .icon-box {
       padding: 5px;
-      border: 1px solid #696d6f;
+      border: 1px solid #7A879F;
       width: 40px;
       height: 40px;
       text-align: center;
@@ -489,7 +485,7 @@ label {
 
   /* Mailchimp modifications */
   #mc_embed_signup .mc-field-group input {
-    background-color: #1e2225;
+    background-color: #161E29;
     color: #ffffff;
     border: 0px !important;
     height: 60px;

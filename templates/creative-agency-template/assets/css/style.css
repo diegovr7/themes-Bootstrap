@@ -187,19 +187,6 @@ Pricing
     transform: scale(1.05);
 }
 
-
-.pb-active {
-    background-color: #2d8eff !important;
-}
-
-.pb-header-active, .pb-subscription-active, .pb-features-active {
-    color: #ffffff !important;
-}
-
-.pb-white {
-    color: #ffffff !important;
-}
-
 .pb-header {
     padding: 30px 24px;
     text-align: center;
