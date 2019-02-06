@@ -9,7 +9,7 @@
 
 <b>Templates and Themes</b>
 <ul>
-  <li><a href="https://themesbootstrap.com.mx/templates/creative-agency-template/index.html">Creative Agency</a></li>
+  <li><a href="https://themesbootstrap.com.mx/templates/creative-agency-template/index.html">Creative Agency</a> - Creative Agency is a clean and responsive Bootstrap 4 template</li>
 </ul>
 
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
