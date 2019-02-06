@@ -16,8 +16,16 @@
 
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
 
-<b>Authors</b><br> 
-Diego Velázquez<br>
+<b>Authors Information</b><br> 
+<p>Diego Velázquez</p>
+<ul>
+  <li>Website: http://templune.com/</li>
+  <li>Software Development Company: https://smartoasis.mx/</li>
+  <li>Behance: https://www.behance.net/diegovr7</li>
+  <li>Dribbble: https://dribbble.com/diegovr7</li>
+  <li>Linkedin: https://www.linkedin.com/in/diego-velazquez-rabasa/</li>
+  <li>Email: diegovr7@gmail.com</li>
+</ul>
 Cristian Palacios
 
 <b>Personal Information</b><br>
