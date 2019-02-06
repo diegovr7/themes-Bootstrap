@@ -27,5 +27,8 @@
   <li>Email: diegovr7@gmail.com</li>
 </ul>
 <p>Cristian Palacios</p>
+<p>Daniel Osorio</p>
+<p>Víctor García</p>
+<p>Sergio Béjar</p>
 
 
