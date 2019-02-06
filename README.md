@@ -7,6 +7,11 @@
 <b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
 <b>Contact Email:</b> contact@themesbootstrap.com.mx
 
+<b>Templates and Themes</b>
+<ul>
+  <li><a href="https://themesbootstrap.com.mx/templates/creative-agency-template/index.html">Creative Agency</a></li>
+</ul>
+
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
 
 <b>Authors</b><br> 
