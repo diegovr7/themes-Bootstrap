@@ -132,7 +132,7 @@ img {
 }
 
 .btn-preview-template {
-  background-color: #2a2e34;
+  background-color: #1D2633;
   color: #616668;
   width: 100%;
   padding: 10px 20px !important;
@@ -320,7 +320,7 @@ img {
 
 .preview-button:hover {
   background-color: #1D2633;
-  color: #616668;
+  color: #7A879F;
   opacity: .9;
   text-decoration: none;
 }
