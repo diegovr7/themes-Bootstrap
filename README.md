@@ -24,11 +24,10 @@
   <li>Behance: https://www.behance.net/diegovr7</li>
   <li>Dribbble: https://dribbble.com/diegovr7</li>
   <li>Linkedin: https://www.linkedin.com/in/diego-velazquez-rabasa/</li>
-  <li>Email: diegovr7@gmail.com</li>
 </ul>
-<p>Cristian Palacios</p>
-<p>Daniel Osorio</p>
-<p>Víctor García</p>
-<p>Sergio Béjar</p>
+<p>Cristian Palacios<br>
+Daniel Osorio<br>
+Víctor García<br>
+Sergio Béjar</p>
 
 
