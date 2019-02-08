@@ -32,9 +32,6 @@
   <li>Dribbble: https://dribbble.com/diegovr7</li>
   <li>Linkedin: https://www.linkedin.com/in/diego-velazquez-rabasa/</li>
 </ul>
-<p>Cristian Palacios<br>
-Daniel Osorio<br>
-Víctor García<br>
-Sergio Béjar</p>
+
 
 
