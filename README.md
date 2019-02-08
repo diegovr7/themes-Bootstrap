@@ -9,9 +9,15 @@
 <b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
 <b>Contact Email:</b> contact@themesbootstrap.com.mx
 
-<b>Templates and Themes</b>
+# Templates and Themes
 <ul>
   <li><a href="https://themesbootstrap.com.mx/templates/creative-agency-template/index.html">Creative Agency</a> - Creative Agency is a clean and responsive Bootstrap 4 template</li>
+</ul>
+
+# External Resources
+<ul>
+  <li>Ionic Icons (https://ionicons.com/)</li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Rubik">Rubik</a></li>
 </ul>
 
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
