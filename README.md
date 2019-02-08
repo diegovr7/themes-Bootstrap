@@ -23,7 +23,7 @@
 
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
 
-<b>Authors Information</b><br> 
+# Authors Information
 <p>Diego Velázquez</p>
 <ul>
   <li>Website: http://templune.com/</li>
