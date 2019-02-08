@@ -1,13 +1,14 @@
 # Themes Bootstrap 
 <p align="center"><img src="https://themesbootstrap.com.mx/assets/images/header-github.svg" style="margin: 0 auto;"></p>
 
-<p>Themes Bootstrap is a project created and maintained by Diego Velázquez</p>
-
-<b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br>
-<b>Contact Email:</b> contact@themesbootstrap.com.mx
-
 # About
 <p>Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects. Find out more about Bootstrap on its <a href="https://getbootstrap.com/" target="_blank" rel="noopener">official website.</a></p>
+
+<p>Themes Bootstrap is a project created and maintained by Diego Velázquez</p>
+<ul>
+  <li><b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br></li>
+  <li><b>Contact Email:</b> contact@themesbootstrap.com.mx</li>
+</ul>
 
 # Templates and Themes
 <ul>
