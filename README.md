@@ -4,9 +4,9 @@
 # About
 <p>Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects. Find out more about Bootstrap on its <a href="https://getbootstrap.com/" target="_blank" rel="noopener">official website.</a></p>
 
-<p>Themes Bootstrap is a project created and maintained by Diego Velázquez</p>
+<p>Themes Bootstrap is a project created and maintained by <a href="http://templune.com/">Diego Velázquez</a></p>
 <ul>
-  <li><b>Development Version:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br></li>
+  <li><b>Themes Bootstrap Website:</b> <a href="https://themesbootstrap.com.mx/">Visit Website</a><br></li>
   <li><b>Contact Email:</b> contact@themesbootstrap.com.mx</li>
 </ul>
 
