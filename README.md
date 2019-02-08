@@ -20,6 +20,9 @@
   <li>Google Font <a href="https://fonts.google.com/specimen/Rubik">Rubik</a></li>
 </ul>
 
+# Bugs & Issues
+<p>Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at Themes Bootstrap or send me an email to <a href="mailto:contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.</p>
+
 <b>Release date <small>(Version 1.0.0)</small>:</b> February 15, 2019
 
 <b>Authors Information</b><br> 
