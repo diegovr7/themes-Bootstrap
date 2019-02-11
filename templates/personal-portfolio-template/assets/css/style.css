@@ -122,9 +122,9 @@ button {
     padding-left: 10px;
 }
 
-#hero {
-    
-}
+/*/////////////////////////////////////////
+Hero
+////////////////////////////////////////*/
 
 #hero h1 {
     font-family: 'Merriweather', serif;
@@ -166,6 +166,10 @@ button {
     bottom: 30px;
     left: 30px;
 }
+
+/*/////////////////////////////////////////
+Portfolio
+////////////////////////////////////////*/
 
 .portfolio-container {
     position: relative;
@@ -211,6 +215,10 @@ button {
     margin-left: 10px;
     vertical-align: middle;
 }
+
+/*/////////////////////////////////////////
+Blog
+////////////////////////////////////////*/
 
 .blog-post {
     position: relative;
@@ -269,6 +277,10 @@ button {
     flex-wrap: wrap;
 }
 
+/*/////////////////////////////////////////
+Footer
+////////////////////////////////////////*/
+
 #footer {
     color: #ffffff;
     font-family: 'Merriweather', serif;
@@ -298,6 +310,10 @@ button {
     margin: 0 15px !important;
 }
 
+/*/////////////////////////////////////////
+Media queries
+////////////////////////////////////////*/
+
 @media (max-width: 575.98px) { 
     section {
         padding: 70px 10px;
@@ -319,6 +335,6 @@ button {
     }
 }
 
-@media (max-width: 991.98px) { ... }
+@media (max-width: 991.98px) {  }
 
-@media (max-width: 1199.98px) { ... }
+@media (max-width: 1199.98px) {  }
