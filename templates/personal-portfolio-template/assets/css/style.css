@@ -39,7 +39,7 @@ a:hover {
 .primary-btn {
     font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
-    color: #000000;
+    color: #000000 !important;
     padding: 15px 40px;
     display: inline-block;
     margin-top: 20px;
@@ -84,6 +84,11 @@ button {
 .navbar-toggler {
     font-size: 2.2rem;
     color: #ffffff;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
 }
 
 .header-logo {
@@ -165,6 +170,10 @@ Hero
     padding: 15px 30px;
     bottom: 30px;
     left: 30px;
+}
+
+.mobile-only {
+    display: none;
 }
 
 /*/////////////////////////////////////////
@@ -321,11 +330,26 @@ Media queries
     #hero h1 {
         font-size: 30px;
     }
+    .hidden-mobile {
+        display: none;
+    }
+    .mobile-only h3 {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    .mobile-only p {
+        font-size: 20px;
+        color: rgba(255,255,255,0.5);
+    }
     .heading-content h2 {
         font-size: 22px;
     }
     .list-inline-item {
         margin: 0 15px !important;
+    }
+    .mobile-only {
+        display: inline-block;
+        color: #ffffff;
     }
 }
 
