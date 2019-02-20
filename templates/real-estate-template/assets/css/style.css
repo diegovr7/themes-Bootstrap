@@ -38,6 +38,18 @@ section {
     padding: 80px 0;
 }
 
+section h2 {
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: .1em;
+}
+
+section p {
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1.8;
+}
+
 .block-title {
     max-width: 700px;
     margin: 0 auto;
@@ -206,18 +218,6 @@ Properties
    color: #222729; 
 }
 
-#properties h2 {
-    font-size: 46px;
-    font-weight: 400;
-    letter-spacing: .1em;
-}
-
-#properties p {
-    font-size: 20px;
-    font-weight: 200;
-    line-height: 1.8;
-}
-
 .property-container {
     position: relative;
     overflow: hidden;
@@ -278,6 +278,36 @@ Properties
 .property-icon i {
     font-size: 22px;
     color: #ffffff;
+}
+
+/*/////////////////////////////////////////
+Blog
+////////////////////////////////////////*/
+
+#blog {
+    color: #333333;
+}
+
+#blog h4 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+#blog a {
+    font-size: 14px;
+    font-weight: 200;
+    color: #333333;
+}
+
+.blog-img {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
+}
+
+.blog-info {
+    margin-top: 15px;
+    padding: 10px;
 }
 
 /*/////////////////////////////////////////
