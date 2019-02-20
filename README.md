@@ -11,6 +11,7 @@
 <ul>
   <li><a href="https://themesbootstrap.com.mx/templates/creative-agency-template/index.html">Creative Agency</a> - Creative Agency is a clean and responsive Bootstrap 4 template</li>
   <li><a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template/index.html">Personal Portfolio</a> - Personal Portfolio is a one page responsive Bootstrap 4 template. </li>
+  <li><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Real Estate</a> - Real Estate is a one page responsive Bootstrap 4 template.</li> 
 </ul>
 
 # External Resources
