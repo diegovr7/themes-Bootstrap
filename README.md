@@ -15,6 +15,8 @@
   <li><a href="https://themesbootstrap.com.mx/templates/mobile-app-template/index.html">Mobile App</a> Mobile App is a one page responsive Bootstrap 4 template.</li>
    <li><a href="https://themesbootstrap.com.mx/templates/software-company-template.html">Software Company
 </a> Software Company is a one page responsive Bootstrap 4 template.</li>
+   <li><a href="https://themesbootstrap.com.mx/templates/smart-agency-template.html">Smart Agency
+</a> Smart Agency is a one page responsive Bootstrap 4 template.</li>
 </ul>
 
 # External Resources
