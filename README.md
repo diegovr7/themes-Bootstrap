@@ -17,6 +17,8 @@
 </a> Software Company is a one page responsive Bootstrap 4 template.</li>
    <li><a href="https://themesbootstrap.com.mx/templates/smart-agency-template.html">Smart Agency
 </a> Smart Agency is a one page responsive Bootstrap 4 template.</li>
+  <li><a href="https://themesbootstrap.com.mx/templates/digital-agency-template.html">Digital Agency
+</a> Digital Agency is a one page responsive Bootstrap 4 template.</li>
 </ul>
 
 # External Resources
